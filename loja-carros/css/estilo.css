@@ -1,0 +1,55 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.cars{
+margin: 20px;
+padding: 10px;
+background-color: black;
+text-align: left;
+display: block;
+
+h2{
+    color: #b2b2b2;
+    margin: 2%;
+}
+
+p{
+    color: #b2b2b2;
+    margin: 2%;
+}
+
+button{
+    background-color: #febe01;
+    border-radius: 4px;
+    margin-left: 2%;
+    margin-bottom: 1.5%;
+    align-items: center;
+    height: 35px;
+    border: none;
+}
+
+}
+
+
+
+h2 ds{
+color: #febe01;
+}
+p ds{
+    color: #febe01;
+}
+
+
+
+
+header {
+    background-color: white;
+    color: rgb(6, 6, 6);
+    padding: 0px;
+    text-align: center;
+    display: block;
+  }
+
